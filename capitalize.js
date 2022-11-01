@@ -3,4 +3,5 @@ function capitalize(string) {
     for (let i = 1; i < string.length; i++) {
         capital += string[i]
     }
+    return capital
 }
