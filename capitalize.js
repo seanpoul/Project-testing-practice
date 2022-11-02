@@ -5,3 +5,5 @@ function capitalize(string) {
     }
     return capital
 }
+
+module.exports = capitalize

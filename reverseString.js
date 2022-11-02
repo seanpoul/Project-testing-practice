@@ -5,3 +5,5 @@ function reverseString(string) {
     }
     return reverse
 }
+
+module.exports = reverseString
